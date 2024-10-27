@@ -1,0 +1,31 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Avoid uploading crash reports, lightmaps, and auto-generated files
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata
+[Aa]ssets/StreamingAssets
+.vs/
+.idea/
+.vscode/
+
+# Auto-generated files for MonoDevelop/Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Cache files and settings
+[Uu]ser[Ss]ettings/
+[Aa]ssets/AssetStoreTools*
